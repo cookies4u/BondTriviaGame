@@ -24,6 +24,7 @@ h1 {
 	font-size: 42px;
 }
 button {
+	margin: 20px 0 40px 0;
 	color: red;
 	font-size: 30px;
 	font-weight: bolder;

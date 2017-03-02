@@ -111,7 +111,7 @@ $(document).ready(function() {
    $("#option3El").html("<P> </p>");
    $("#option4El").html("<P> </p>");
 
-   $("#imgEl").html('<img class="img-responsive text-center" src=' + imagesArr[arrIndex] + '>');
+   $("#imgEl").html('<img src=' + imagesArr[arrIndex] + '>');
 
    arrIndex++;
   };
